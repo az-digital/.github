@@ -10,11 +10,11 @@ team of web-focused volunteers that meet weekly to create projects like [Arizona
 
   * A [GitHub account](https://github.com/join).
   * [Slack](https://uarizona.slack.com) is our main source of communications.
-    * Use the `#ua-quickstart-d8` channel for questions/comments related to this
+    * Use the `#azdigital-quickstart` channel for questions/comments related to this
       project.
-    * Use the `#friday-meetings` channel to ask questions or get updates related 
-      to Arizona Digital meetings, both physical and via Zoom.
-    * Use the `#uadigital-general` channel to ask general questions related to
+    * Use the `#azdigital-meetings` channel to ask questions or get updates related 
+      to our weekly Arizona Digital meetings on Zoom.
+    * Use the `#azdigital-support` channel to ask general questions related to
       Arizona Digital.
   * A basic understanding of [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
   * [Lando](https://docs.lando.dev/basics/installation.html) or [DDEV](https://www.ddev.com/get-started/) for local development.

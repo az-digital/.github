@@ -1,4 +1,4 @@
-![az digital](az-digital.png)
+![az digital](profile/az-digital.png)
 
 
 # Welcome to Arizona Digital! 🌵

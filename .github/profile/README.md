@@ -2,7 +2,7 @@
 
 
 # Welcome to Arizona Digital! 🌵
-A team of web-focused volunteers known as Arizona Digital meets weekly to build and test products like Arizona Bootstrap and Arizona Quickstart. Contributions are what keep Arizona Bootstrap moving and improving, and are in everyone's best interest.
+A team of web-focused volunteers known as Arizona Digital meets weekly to build and test products like Arizona Bootstrap and Arizona Quickstart. Contributions are what keep these products moving and improving, and are in everyone's best interest.
 
 ## Contribution 🌈
 As an open-source project, we count on the support and collaboration of amazing developers like you to keep Arizona Quickstart and Arizona Bootstrap moving forward. By contributing, you'll be helping to enhance the tools used by your fellow developers and making a real difference in improving the web experience across our campus.

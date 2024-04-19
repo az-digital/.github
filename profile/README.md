@@ -1,4 +1,4 @@
-![az digital 2](https://github.com/az-digital/.github/assets/az-digital-2.png)
+![az digital](az-digital.png)
 
 
 # Welcome to Arizona Digital! 🌵

@@ -9,7 +9,7 @@ As an open-source project, we count on the support and collaboration of amazing 
 
 ### Ways to contribute
 
-- Request an invite to the Friday Arizona Digital meetings by subscribing to the [UA Digital listserv](https://list.arizona.edu/sympa/info/ua-digital)
+- Drop in to one of the Arizona Digital [Friday meetings on Zoom](https://arizona.zoom.us/my/azdigital) every week from 10am to Noon.
 - Join the Arizona Digital discussions on [Slack](https://quickstart.arizona.edu/join-us-on-slack)
 - Submit pull requests on here GitHub
 

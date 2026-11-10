@@ -1,20 +1,23 @@
-![az digital](/profile/az-digital.png)
+![Arizona Digital banner](/profile/az-digital.png)
 
 
-# Welcome to Arizona Digital! 🌵
-A team of web-focused volunteers known as Arizona Digital meets weekly to build and test products like Arizona Bootstrap and Arizona Quickstart. Contributions are what keep these products moving and improving, and are in everyone's best interest.
+# Arizona Digital
 
-## Contribution 🌈
-As an open-source project, we count on the support and collaboration of amazing developers like you to keep Arizona Quickstart and Arizona Bootstrap moving forward. By contributing, you'll be helping to enhance the tools used by your fellow developers and making a real difference in improving the web experience across our campus.
+We’re a community of web-focused volunteers building open-source tools for the University of Arizona, including Arizona Bootstrap, Arizona Quickstart, and the Arizona Digital Design System.
 
-### Ways to contribute
+## Explore our work
 
-- Drop in to one of the Arizona Digital [Friday meetings on Zoom](https://arizona.zoom.us/my/azdigital) every week from 10am to Noon.
-- Join the Arizona Digital discussions on [Slack](https://quickstart.arizona.edu/join-us-on-slack)
-- Submit pull requests on here GitHub
+- [Arizona Digital Design System](https://digital.arizona.edu/design/latest/) — explore design tokens, foundations, and component guidance.
+- [Design system source on GitHub](https://github.com/az-digital/design) — browse the source and contribute.
+- [Get started with Arizona Quickstart](https://digital.arizona.edu/getting-started)
+- [Explore Arizona Bootstrap](https://digital.arizona.edu/arizona-bootstrap/v5/)
 
-## Resources 👩‍💻
-- [Get Started With Arizona Quickstart](https://digital.arizona.edu/getting-started)
-- [Explore Arizona Bootstrap](https://digital.arizona.edu/arizona-bootstrap)
-- Join Our Friday Meetings on [Zoom](https://arizona.zoom.us/my/azdigital)
-- Contact us at: [az-digital@web.arizona.edu](mailto:az-digital@web.arizona.edu)
+## Join the community
+
+Join our weekly Friday meetings from 10 a.m. to noon on [Zoom](https://arizona.zoom.us/my/azdigital), or connect with us on [Slack](https://quickstart.arizona.edu/join-us-on-slack).
+
+## Contribute
+
+Contributions help us improve the tools used across campus. Explore a project above, then open an issue or submit a pull request to help make it better.
+
+Questions? Email [az-digital@web.arizona.edu](mailto:az-digital@web.arizona.edu).

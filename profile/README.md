@@ -3,12 +3,11 @@
 
 # Arizona Digital
 
-We’re a community of web-focused volunteers building open-source tools for the University of Arizona, including Arizona Bootstrap, Arizona Quickstart, and the Arizona Digital Design System.
+We’re a community of web-focused volunteers building open-source tools for the University of Arizona.
 
-## Explore our work
+## Documentation
 
 - [Arizona Digital Design System](https://digital.arizona.edu/design/latest/) — explore design tokens, foundations, and component guidance.
-- [Design system source on GitHub](https://github.com/az-digital/design) — browse the source and contribute.
 - [Get started with Arizona Quickstart](https://digital.arizona.edu/getting-started)
 - [Explore Arizona Bootstrap](https://digital.arizona.edu/arizona-bootstrap/v5/)
 
@@ -23,6 +22,6 @@ Connect with us in the [Arizona Digital General channel on Microsoft Teams](http
 
 ## Contribute
 
-Contributions help us improve the tools used across campus. Explore a project above, then open an issue or submit a pull request to help make it better.
+Contributions help us improve the tools used across campus. Open an issue or submit a pull request in a project’s repository to help make it better.
 
 Questions? Email [az-digital@web.arizona.edu](mailto:az-digital@web.arizona.edu).

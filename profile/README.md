@@ -1,20 +1,27 @@
-![az digital](/profile/az-digital.png)
+![Arizona Digital banner](/profile/az-digital.png)
 
 
-# Welcome to Arizona Digital! 🌵
-A team of web-focused volunteers known as Arizona Digital meets weekly to build and test products like Arizona Bootstrap and Arizona Quickstart. Contributions are what keep these products moving and improving, and are in everyone's best interest.
+# Arizona Digital
 
-## Contribution 🌈
-As an open-source project, we count on the support and collaboration of amazing developers like you to keep Arizona Quickstart and Arizona Bootstrap moving forward. By contributing, you'll be helping to enhance the tools used by your fellow developers and making a real difference in improving the web experience across our campus.
+We’re a community of web-focused volunteers building open-source tools for the University of Arizona.
 
-### Ways to contribute
+## Documentation
 
-- Drop in to one of the Arizona Digital [Friday meetings on Zoom](https://arizona.zoom.us/my/azdigital) every week from 10am to Noon.
-- Join the Arizona Digital discussions on [Slack](https://quickstart.arizona.edu/join-us-on-slack)
-- Submit pull requests on here GitHub
+- [Arizona Digital Design System](https://digital.arizona.edu/design/latest/) — explore design tokens, foundations, and component guidance.
+- [Get started with Arizona Quickstart](https://digital.arizona.edu/getting-started)
+- [Explore Arizona Bootstrap](https://digital.arizona.edu/arizona-bootstrap/v5/)
 
-## Resources 👩‍💻
-- [Get Started With Arizona Quickstart](https://digital.arizona.edu/getting-started)
-- [Explore Arizona Bootstrap](https://digital.arizona.edu/arizona-bootstrap)
-- Join Our Friday Meetings on [Zoom](https://arizona.zoom.us/my/azdigital)
-- Contact us at: [az-digital@web.arizona.edu](mailto:az-digital@web.arizona.edu)
+## Join the community
+
+Join us on [Zoom](https://arizona.zoom.us/my/azdigital):
+
+- **Arizona Digital:** Fridays from 10 a.m. to noon.
+- **Design system and user experience (Arizona Digital UX):** every other Tuesday from 10 to 11 a.m.
+
+Connect with us in the [Arizona Digital General channel on Microsoft Teams](https://teams.microsoft.com/l/channel/19%3A-MwdU6fBIuJVWL2G4F0NmFMqxrJ8kms2-qW5y3qCPe41%40thread.tacv2/General?groupId=56dd8bd6-c065-4f07-bef0-9293bb01f97f&tenantId=5ee35505-eb8e-4929-937d-645df5013288). The team also has channels for Bootstrap, Documentation Site, Meetings, Quickstart, Support, and User Experience.
+
+## Contribute
+
+Contributions help us improve the tools used across campus. Open an issue or submit a pull request in a project’s repository to help make it better.
+
+Questions? Email [az-digital@web.arizona.edu](mailto:az-digital@web.arizona.edu).
